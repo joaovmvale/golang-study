@@ -1,0 +1,15 @@
+30/11/2022 23:37:51 - SITE: https://www.alura.com.br | STATUS CODE: 200
+30/11/2022 23:37:51 - SITE: https://random-status-code.herokuapp.com/ | STATUS CODE: 503
+30/11/2022 23:37:52 - SITE: https://www.google.com | STATUS CODE: 200
+30/11/2022 23:37:57 - SITE: https://www.alura.com.br | STATUS CODE: 200
+30/11/2022 23:37:58 - SITE: https://random-status-code.herokuapp.com/ | STATUS CODE: 503
+30/11/2022 23:37:58 - SITE: https://www.google.com | STATUS CODE: 200
+30/11/2022 23:38:03 - SITE: https://www.alura.com.br | STATUS CODE: 200
+30/11/2022 23:38:03 - SITE: https://random-status-code.herokuapp.com/ | STATUS CODE: 503
+30/11/2022 23:38:04 - SITE: https://www.google.com | STATUS CODE: 200
+04/12/2022 17:40:21 - SITE: https://www.alura.com.br | STATUS CODE: 200
+04/12/2022 17:40:22 - SITE: https://random-status-code.herokuapp.com | STATUS CODE: 503
+04/12/2022 17:40:22 - SITE: https://www.google.com | STATUS CODE: 200
+04/12/2022 17:40:28 - SITE: https://www.alura.com.br | STATUS CODE: 200
+04/12/2022 17:40:28 - SITE: https://random-status-code.herokuapp.com | STATUS CODE: 503
+04/12/2022 17:40:29 - SITE: https://www.google.com | STATUS CODE: 200
